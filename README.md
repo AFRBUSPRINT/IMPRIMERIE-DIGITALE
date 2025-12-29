@@ -82,15 +82,12 @@ Projet de plateforme web pour l’achat de billets en ligne pour :
 
 ---
 
-## 🧭 Mon Ikigai
-Créer et structurer des **solutions modernes (impression & digital)** qui facilitent la vie des personnes et des organisations, tout en développant une activité économique locale durable.
 
----
 
 ## 📫 Me contacter
 - 📍 RDC
-- 📞 WhatsApp : +243 XXX XXX XXX
-- 📧 Email : à compléter
+- 📞 WhatsApp : +243 810 142 231
+- 📧 Email : ben.kakesa.p@gmail.com
 - 🌐 GitHub : https://github.com/TON-USERNAME
 
 ---
