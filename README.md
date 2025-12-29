@@ -32,7 +32,7 @@ AFRBUS PRINT propose des services complets allant de la conception graphique à 
 - Contact rapide via WhatsApp
 
 🔗 **Lien du projet :**  
-👉 https://github.com/TON-USERNAME/afrbus-print *(à remplacer)*
+👉 https://afrbusprint.github.io/IMPRIMERIE-DIGITALE
 
 ---
 
@@ -47,7 +47,7 @@ Site vitrine professionnel développé en **HTML / CSS**, hébergé sur **GitHub
 - Page de commande (en développement)
 
 🔗 **Lien du site :**  
-👉 https://TON-USERNAME.github.io/afrbus-print *(à remplacer)*
+👉 https://afrbusprint.github.io/IMPRIMERIE-DIGITALE
 
 ---
 
@@ -88,7 +88,7 @@ Projet de plateforme web pour l’achat de billets en ligne pour :
 - 📍 RDC
 - 📞 WhatsApp : +243 810 142 231
 - 📧 Email : ben.kakesa.p@gmail.com
-- 🌐 GitHub : https://github.com/TON-USERNAME
+- 🌐 GitHub :https://afrbusprint.github.io/IMPRIMERIE-DIGITALE
 
 ---
 
